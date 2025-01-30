@@ -1,2 +1,7 @@
 const card = document.querySelectorAll('.card');
-console.log(card);
+
+card.forEach((card) => {
+
+    console.log(card);
+    
+})
