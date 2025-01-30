@@ -1,3 +1,2 @@
-const card = document.querySelectorAll('.card')
-
+const card = document.querySelectorAll('.card');
 console.log(card);
